@@ -1,3 +1,4 @@
+//bitmap for title screen
 #include <Arduboy.h>
 
 Arduboy arduboy;

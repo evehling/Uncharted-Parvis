@@ -1,3 +1,4 @@
+//structure for gameplay--see gameplayex.mov for demo
 #include <Arduboy2.h>
 Arduboy2 arduboy;
 # define HEIGHT 64

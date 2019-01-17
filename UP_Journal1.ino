@@ -1,3 +1,4 @@
+//bitmap for journal artwork
 #include <Arduboy.h>
 
 Arduboy arduboy;

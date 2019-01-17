@@ -1,3 +1,4 @@
+//bitmap for background
 #include <Arduboy.h>
 
 Arduboy arduboy;
